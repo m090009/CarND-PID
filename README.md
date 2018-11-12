@@ -6,7 +6,7 @@ correct PID coefficients.
 Here is a video of the car driving through the track:
 ![J](./PID_run.mp4
 
-[![PID video](./PID.jpg)](./PID.mp4))
+[![PID video](./PID.jpg)](https://youtu.be/hfpDjvknVlI))
 
 ## Manual adjustment 
 I initialized PID coefficients with the initial values that where given in class and slowly adjusted them until I found a consistent and robust values that could run the track for eternity and these values are **[.2 , .0001 , 3.0]**.
